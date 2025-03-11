@@ -1,6 +1,6 @@
 # Lab6 - Graphics and Mouse Events
 CSIS-225 Lab , Spring 2025
-# Google Doc URL:
+# Google Doc URL: https://docs.google.com/document/d/1cMTkawet5nGX51hVyTH67BwKrvN5fuc9lAjyC_tjGYk/edit?tab=t.0
 
 # Names:
 
