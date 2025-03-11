@@ -8,6 +8,8 @@ import javax.swing.event.*;
  * 
  * @author Jim Teresco
  * @author Ira Goldstein
+ * @author Gregory Drapeau
+ * @author Hussain Ali
  * @version Spring 2025
  */
 public class MouseDemo extends MouseAdapter implements Runnable{
