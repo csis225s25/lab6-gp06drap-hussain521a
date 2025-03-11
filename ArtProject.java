@@ -6,6 +6,8 @@ import javax.swing.*;
  * 
  * @author Jim Teresco
  * @author Ira Goldstein
+ * @author Gregory Drapeau
+ * @author Hussain Ali
  * @version Spring 2025
  */
 
